@@ -11,7 +11,7 @@ environment:
 dependencies:
   isar:
     git:
-      url: https://github.com/ashishsumann/isar.git
+      url: https://github.com/ashishcors/isar.git
       path: packages/isar/
   build: ^2.2.1
   source_gen: ^1.2.1
